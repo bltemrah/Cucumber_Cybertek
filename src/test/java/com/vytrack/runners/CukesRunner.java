@@ -18,11 +18,11 @@ import org.junit.runner.RunWith;
 //        //tags = "@driver or @wip"
 //        //tags = "@login"
 //        tags = "@login and not @wip"  //old syntax {"@login", "~@wip"}
-
+        plugin = {"json:target/cucumber.json"},
         features = "src/test/resources/features",
         glue = "com/vytrack/step_definitions/",
         dryRun = false,
-        tags = "@navigation"
+        tags = "@login"
 
 )
 public class CukesRunner {

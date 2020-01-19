@@ -20,6 +20,7 @@ public class LoginStepDefs {
 
     @Then("the user should be able to login")
     public void the_user_should_be_able_to_login() {
+
         System.out.println("I verified that I see the dashboard page");
     }
 
