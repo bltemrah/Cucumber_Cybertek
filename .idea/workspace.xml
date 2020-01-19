@@ -2,24 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a74be5f-f5dd-41a8-810c-a961ec32a70c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/pages/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/pages/CalendarEventsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/pages/ContactInfoPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/pages/ContactsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/pages/CreateCalendarEventsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/pages/DashboardPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/step_definitions/Hooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/utilities/BrowserUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/utilities/ConfigurationReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/utilities/Driver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vytrack/runners/CukesRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/runners/CukesRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/vytrack/step_definitions/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/step_definitions/Hooks.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/vytrack/step_definitions/LoginStepDefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/step_definitions/LoginStepDefs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/resources/features/Login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/Login.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/vytrack/runners/CukesRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/vytrack/runners/CukesRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/vytrack/step_definitions/Hooks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/vytrack/step_definitions/Hooks.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/vytrack/step_definitions/LoginStepDefs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/vytrack/step_definitions/LoginStepDefs.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/features/Login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/Login.feature" afterDir="false" />
     </list>
@@ -133,26 +121,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="814" height="392" key="GridCell.Tab.0.bottom" timestamp="1579451117247">
+    <state width="1035" height="208" key="GridCell.Tab.0.bottom" timestamp="1579456802325">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="976" height="392" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1579208355194" />
-    <state width="814" height="392" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1579451117247" />
-    <state width="814" height="392" key="GridCell.Tab.0.center" timestamp="1579451117247">
+    <state width="1035" height="208" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1579456802325" />
+    <state width="1035" height="208" key="GridCell.Tab.0.center" timestamp="1579456802324">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="976" height="392" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1579208355193" />
-    <state width="814" height="392" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1579451117247" />
-    <state width="814" height="392" key="GridCell.Tab.0.left" timestamp="1579451117246">
+    <state width="1035" height="208" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1579456802324" />
+    <state width="1035" height="208" key="GridCell.Tab.0.left" timestamp="1579456802323">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="976" height="392" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1579208355192" />
-    <state width="814" height="392" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1579451117246" />
-    <state width="814" height="392" key="GridCell.Tab.0.right" timestamp="1579451117247">
+    <state width="1035" height="208" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1579456802323" />
+    <state width="1035" height="208" key="GridCell.Tab.0.right" timestamp="1579456802324">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="976" height="392" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1579208355194" />
-    <state width="814" height="392" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1579451117247" />
+    <state width="1035" height="208" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1579456802324" />
     <state x="322" y="246" key="new project wizard" timestamp="1579452641620">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>

@@ -1,5 +1,6 @@
 package com.vytrack.step_definitions;
 
+import com.vytrack.utilities.Driver;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
 
@@ -13,7 +14,7 @@ public class Hooks {
 
     @After
     public void tearDown() {
-        System.out.println("This is coming from AFTER method\n");
+        Driver.closeDriver();
     }
 
     @Before("@store_manager")
@@ -23,6 +24,7 @@ public class Hooks {
     }
     @After("@store_manager")
     public void tearDownStoreManager() {
+
         System.out.println("\tThis is coming AFTER Store Manager\n");
     }
 
@@ -34,6 +36,7 @@ public class Hooks {
 
     @After("@smoke")
     public void tearDownSmokeTest() {
+
         System.out.println("\t\tThis is coming After Smoke test\n");
     }
 
@@ -45,6 +48,7 @@ public class Hooks {
 
     @After("@db")
     public void tearDownDbTest() {
+
         System.out.println("\t\tClosing DataBase Connection\n");
     }
 }
